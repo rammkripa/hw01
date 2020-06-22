@@ -7,3 +7,6 @@ I am a rising ***sophomore*** at UC Berkeley and am really looking forward to th
 > I also really like the 1966 Batman Live action TV show. *Adam West* is a legend.
 
 ![The scourge of Gotham City](batman.jpg)
+
+## Some Days you just can't get rid of a Bomb
+![](bomb.jpg)
